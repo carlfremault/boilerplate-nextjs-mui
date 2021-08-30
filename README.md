@@ -4,4 +4,5 @@ I quickly noticed that each time I started a new nextjs project the setup was re
 So I decided to make myself a boilerplate.
 
 - initial setup using create-next-app
+- installation of Material-UI
 - configuration for eslint and prettier
